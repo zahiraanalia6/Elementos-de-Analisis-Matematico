@@ -64,3 +64,31 @@ Muchas veces trabajamos con uno o más conjuntos cuyos elementos pertenecen a un
 ![4](https://github.com/zahiraanalia6/Elementos-de-Analisis-Matematico/blob/main/img/4.png "4")
 
 ![5](https://github.com/zahiraanalia6/Elementos-de-Analisis-Matematico/blob/main/img/5.png "5")
+
+**Interseccion**
+
+La intersección de los conjuntos A y B es el conjunto de los elementos que son comunes a A y a B, esto es, de aquellos elementos que pertenecen a A y que también pertenecen a B. Se denota la intersección de A y B por:
+
+A∩B
+
+que se lee "A intersección B ". En símbolos se indica de la siguiente manera:
+
+A∩B={x:x∈A y x∈B}
+
+![6](https://github.com/zahiraanalia6/Elementos-de-Analisis-Matematico/blob/main/img/6.png "6")
+
+**Diferencia**
+
+Llamamos diferencia entre dos conjuntos A y B al conjunto formado por todos los elementos de A que no están en B . Denotamos a este conjunto con A−B. En símbolos, esto se escribe como:
+
+A−B={x∶x∈A y x∉B}
+
+En palabras, el conjunto A−B se forma con todos los elementos de A, a los cuales les “quitamos” los que a su vez pertenecen a B. De esta definición se observa que A−B es un subconjunto de A: A−B⊆A.
+
+![7](https://github.com/zahiraanalia6/Elementos-de-Analisis-Matematico/blob/main/img/7.png "7")
+
+**Complemento**
+
+Dados dos conjuntos A y U tales que A⊆U, el conjunto U−A es llamado el complemento del conjunto A con respecto a U. En otras palabras, es el conjunto formado por todos los elementos del conjunto universal que no pertenecen a A. El complemento de A se denota como Ac.
+
+![8](https://github.com/zahiraanalia6/Elementos-de-Analisis-Matematico/blob/main/img/8.png "8")
